@@ -1,0 +1,24 @@
+# Python virtual environment
+.venv/
+venv/
+ENV/
+env/
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*.class
+*.pytest_cache/
+
+# Local cache & temp files
+data/osm_cache.json
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Environment & IDE
+.env
+.idea/
+.vscode/
+.system_generated/
+*.log

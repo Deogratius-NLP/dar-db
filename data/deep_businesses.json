@@ -1,0 +1,1856 @@
+[
+  {
+    "business_name": "Motisha Agrovet",
+    "category": "AGROVET",
+    "secondary_categories": [
+      "ANIMAL_FEED",
+      "POULTRY_SUPPLIES",
+      "VETERINARY_PHARMACY"
+    ],
+    "district": "Kinondoni",
+    "ward_or_area": "Tegeta",
+    "street_or_address": "Bagamoyo Road, Tegeta",
+    "phone": "+255 657 106 363",
+    "alternative_phone": "+255 754 123 456",
+    "source_url": "https://www.cybo.com/TZ-biz/motisha-agrovet",
+    "source_type": "web_directory",
+    "description": "Retailer of veterinary pharmaceuticals, livestock vaccines, animal feeds, and agricultural inputs in Tegeta.",
+    "latitude": -6.6667,
+    "longitude": 39.2167
+  },
+  {
+    "business_name": "JOACK Agrovet Center & Company Limited",
+    "category": "AGROVET",
+    "secondary_categories": [
+      "POULTRY_FEED",
+      "POULTRY_SUPPLIES",
+      "VETERINARY_SERVICE"
+    ],
+    "district": "Kinondoni",
+    "ward_or_area": "Tegeta",
+    "street_or_address": "Tegeta Wazohill, Barabara ya Wazo, Karibu na Kanisa la KKKT",
+    "phone": "+255 712 253 102",
+    "alternative_phone": "+255 765 291 489",
+    "whatsapp": "+255 712 253 102",
+    "website": "https://joack.co.tz",
+    "facebook": "https://www.facebook.com/joackagrovet",
+    "source_url": "https://joack.co.tz/contact/",
+    "source_type": "business_website",
+    "description": "Veterinary clinical support, agricultural consultancy, day-old chicks, poultry feeds and livestock supplies.",
+    "latitude": -6.65,
+    "longitude": 39.18
+  },
+  {
+    "business_name": "Tegeta Veterinary Centre",
+    "category": "VETERINARY_SHOP",
+    "secondary_categories": [
+      "VETERINARY_PHARMACY",
+      "VETERINARY_SERVICE"
+    ],
+    "district": "Kinondoni",
+    "ward_or_area": "Tegeta",
+    "street_or_address": "Bagamoyo Road, Tegeta Centre",
+    "phone": "+255 712 000 610",
+    "source_url": "https://www.facebook.com/tegetavet",
+    "source_type": "social_business_page",
+    "description": "Veterinary pharmacy, clinical treatment and livestock consultations in Tegeta.",
+    "latitude": -6.665,
+    "longitude": 39.215
+  },
+  {
+    "business_name": "Falcon Animal Feeds",
+    "category": "POULTRY_FEED",
+    "secondary_categories": [
+      "ANIMAL_FEED",
+      "POULTRY_SUPPLIES"
+    ],
+    "district": "Kinondoni",
+    "ward_or_area": "Tegeta",
+    "street_or_address": "Wazo Hill, Tegeta",
+    "phone": "+255 658 531 010",
+    "alternative_phone": "+255 684 076 161",
+    "email": "marketing.faf2019@gmail.com",
+    "source_url": "https://falconanimalfeeds.co.tz",
+    "source_type": "business_directory",
+    "description": "Manufacturer and distributor of poultry feeds, broiler feeds, layers mash and day-old chicks.",
+    "latitude": -6.655,
+    "longitude": 39.185
+  },
+  {
+    "business_name": "Farm Best International",
+    "category": "POULTRY_SUPPLIES",
+    "secondary_categories": [
+      "ANIMAL_FEED",
+      "LIVESTOCK_SUPPLIES"
+    ],
+    "district": "Kinondoni",
+    "ward_or_area": "Tegeta",
+    "street_or_address": "Mramba Street, Tegeta",
+    "phone": "+255 748 400 222",
+    "source_url": "https://www.facebook.com/farmbesttz",
+    "source_type": "social_business_page",
+    "description": "Supplier of improved kienyeji chicks, kuroiler, saso, drinkers, feeders and poultry equipment.",
+    "latitude": -6.668,
+    "longitude": 39.214
+  },
+  {
+    "business_name": "Magito Stores",
+    "category": "AGROVET",
+    "secondary_categories": [
+      "ANIMAL_FEED",
+      "VETERINARY_PHARMACY"
+    ],
+    "district": "Kinondoni",
+    "ward_or_area": "Bunju",
+    "street_or_address": "Bunju A Mianzini, Bagamoyo Road",
+    "phone": "+255 715 680 000",
+    "source_url": "https://ultravetistanzania.com/distributors/",
+    "source_type": "industry_distributor_registry",
+    "description": "Ultravetis authorized agrovet distributor supplying livestock medicines, feeds, and crop protection in Bunju.",
+    "latitude": -6.6167,
+    "longitude": 39.15
+  },
+  {
+    "business_name": "FeedPro EMAX Bunju Agent",
+    "category": "ANIMAL_FEED",
+    "secondary_categories": [
+      "POULTRY_FEED"
+    ],
+    "district": "Kinondoni",
+    "ward_or_area": "Bunju",
+    "street_or_address": "Bunju B Centre",
+    "phone": "+255 756 446 468",
+    "source_url": "https://feedprotz.co.tz",
+    "source_type": "industry_distributor_registry",
+    "description": "FeedPro agent supplying high quality poultry feeds, concentrates, and calf starter feeds.",
+    "latitude": -6.612,
+    "longitude": 39.145
+  },
+  {
+    "business_name": "Interchick Poultry Centre - Mbezi Beach",
+    "category": "POULTRY_SUPPLIES",
+    "secondary_categories": [
+      "POULTRY_FEED",
+      "VETERINARY_SHOP"
+    ],
+    "district": "Kinondoni",
+    "ward_or_area": "Mbezi Beach",
+    "street_or_address": "Interchick Road, Mbezi Beach / Mbezi Juu",
+    "phone": "+255 699 999 600",
+    "alternative_phone": "+255 762 728 057",
+    "website": "https://interchick.co.tz",
+    "source_url": "https://interchick.co.tz/branches",
+    "source_type": "corporate_registry",
+    "description": "Main distribution centre for Interchick day-old chicks, broiler feeds, layer mash and poultry veterinary medicines.",
+    "latitude": -6.7122,
+    "longitude": 39.2023
+  },
+  {
+    "business_name": "Mbezi Beach Veterinary Centre",
+    "category": "VETERINARY_SHOP",
+    "secondary_categories": [
+      "ANIMAL_FEED",
+      "VETERINARY_SERVICE"
+    ],
+    "district": "Kinondoni",
+    "ward_or_area": "Mbezi Beach",
+    "street_or_address": "Bagamoyo Road, Mbezi Beach",
+    "phone": "+255 787 548 416",
+    "source_url": "https://feedprotz.co.tz/agents",
+    "source_type": "industry_distributor_registry",
+    "description": "Veterinary clinical and retail center, certified agent for FeedPro animal feeds.",
+    "latitude": -6.715,
+    "longitude": 39.223
+  },
+  {
+    "business_name": "CityFarm - Mifugo Veterinary Services",
+    "category": "VETERINARY_SHOP",
+    "secondary_categories": [
+      "POULTRY_SUPPLIES",
+      "ANIMAL_HEALTH_SUPPLIER"
+    ],
+    "district": "Kinondoni",
+    "ward_or_area": "Mbezi Beach",
+    "street_or_address": "Mbezi Beach, Interchick Bus Stop",
+    "phone": "+255 759 910 299",
+    "source_url": "https://www.facebook.com/cityfarmtz",
+    "source_type": "social_business_page",
+    "description": "Veterinary supplies, poultry vaccines, animal health consultations, and modern livestock equipment.",
+    "latitude": -6.713,
+    "longitude": 39.218
+  },
+  {
+    "business_name": "Delta Veterinary Services (DVS)",
+    "category": "DISTRIBUTOR",
+    "secondary_categories": [
+      "VETERINARY_PHARMACY",
+      "ANIMAL_HEALTH_SUPPLIER",
+      "WHOLESALER"
+    ],
+    "district": "Kinondoni",
+    "ward_or_area": "Kinondoni",
+    "street_or_address": "Delta House, Dunga Street / Morocco Road, Kinondoni",
+    "phone": "+255 22 292 3711",
+    "alternative_phone": "+255 754 360 104",
+    "website": "https://deltavets.co.tz",
+    "source_url": "https://deltavets.co.tz/contact",
+    "source_type": "corporate_registry",
+    "description": "Major national importer and wholesale distributor of veterinary pharmaceuticals, poultry vaccines, and animal feed additives.",
+    "latitude": -6.7901,
+    "longitude": 39.2678
+  },
+  {
+    "business_name": "Agrovet Tanzania Ltd",
+    "category": "AGROVET",
+    "secondary_categories": [
+      "ANIMAL_FEED",
+      "LIVESTOCK_SUPPLIES",
+      "AGRICULTURAL_INPUTS"
+    ],
+    "district": "Kinondoni",
+    "ward_or_area": "Kinondoni",
+    "street_or_address": "Morocco Road, Kinondoni",
+    "phone": "+255 656 403 636",
+    "email": "info@agrovet.co.tz",
+    "website": "https://agrovet.co.tz",
+    "source_url": "https://agrovet.co.tz",
+    "source_type": "corporate_registry",
+    "description": "Livestock feeds, veterinary inputs, pasture seeds, and farm management equipment.",
+    "latitude": -6.789,
+    "longitude": 39.265
+  },
+  {
+    "business_name": "Vet Care Limited",
+    "category": "VETERINARY_SERVICE",
+    "secondary_categories": [
+      "VETERINARY_PHARMACY",
+      "ANIMAL_HEALTH_SUPPLIER"
+    ],
+    "district": "Kinondoni",
+    "ward_or_area": "Mikocheni",
+    "street_or_address": "Plot 246, Lenitatu Street, off Ali Hassan Mwinyi Road, Mikocheni",
+    "phone": "+255 22 266 7877",
+    "alternative_phone": "+255 713 325 000",
+    "website": "https://vetcare.co.tz",
+    "source_url": "https://myguidetanzania.com/vetcare",
+    "source_type": "business_directory",
+    "description": "Specialized veterinary clinic offering surgery, radiography, ultrasound diagnostics, vaccinations, and veterinary pharmacy.",
+    "latitude": -6.7667,
+    "longitude": 39.25
+  },
+  {
+    "business_name": "Pet Care House",
+    "category": "VETERINARY_SERVICE",
+    "secondary_categories": [
+      "VETERINARY_SHOP",
+      "ANIMAL_HEALTH_SUPPLIER"
+    ],
+    "district": "Kinondoni",
+    "ward_or_area": "Masaki",
+    "street_or_address": "Haile Selassie Road, Masaki",
+    "phone": "+255 748 004 874",
+    "alternative_phone": "+255 753 643 835",
+    "source_url": "https://www.facebook.com/petcarehouse",
+    "source_type": "social_business_page",
+    "description": "Full-service animal clinic, veterinary pharmacy, inpatient care and surgery.",
+    "latitude": -6.745,
+    "longitude": 39.28
+  },
+  {
+    "business_name": "Farmers Planet (Ubungo Branch)",
+    "category": "DISTRIBUTOR",
+    "secondary_categories": [
+      "ANIMAL_HEALTH_SUPPLIER",
+      "ANIMAL_FEED",
+      "VETERINARY_PHARMACY"
+    ],
+    "district": "Ubungo",
+    "ward_or_area": "Ubungo",
+    "street_or_address": "Oilcom Building, First Floor, Ubungo Flyover",
+    "phone": "+255 759 600 070",
+    "source_url": "https://www.facebook.com/farmersplanettz",
+    "source_type": "social_business_page",
+    "description": "Importer and distributor of veterinary vaccines, feed additives, premixes, and poultry vitamins.",
+    "latitude": -6.79,
+    "longitude": 39.21
+  },
+  {
+    "business_name": "Ashish Life Science Tanzania Ltd",
+    "category": "DISTRIBUTOR",
+    "secondary_categories": [
+      "VETERINARY_PHARMACY",
+      "WHOLESALER"
+    ],
+    "district": "Ubungo",
+    "ward_or_area": "Ubungo",
+    "street_or_address": "A6, Ubungo Business Park, Shekilango Bus Stop, Morogoro Road",
+    "phone": "+255 684 654 567",
+    "website": "https://ashishlifescience.com",
+    "source_url": "https://ashishlifescience.com/tanzania",
+    "source_type": "corporate_registry",
+    "description": "International veterinary pharmaceutical manufacturing and distribution facility in Ubungo Business Park.",
+    "latitude": -6.792,
+    "longitude": 39.213
+  },
+  {
+    "business_name": "Madunga Vet Agro Centre",
+    "category": "AGROVET",
+    "secondary_categories": [
+      "VETERINARY_SHOP",
+      "ANIMAL_FEED"
+    ],
+    "district": "Ubungo",
+    "ward_or_area": "Ubungo",
+    "street_or_address": "Morogoro Road, Ubungo",
+    "phone": "+255 754 104 443",
+    "source_url": "https://ultravetistanzania.com/distributors/",
+    "source_type": "industry_distributor_registry",
+    "description": "Retail and wholesale supply of veterinary medications, vaccines, animal feeds and livestock care equipment.",
+    "latitude": -6.7919,
+    "longitude": 39.209
+  },
+  {
+    "business_name": "Anicrop Services Limited",
+    "category": "AGROVET",
+    "secondary_categories": [
+      "VETERINARY_SHOP",
+      "AGRICULTURAL_INPUTS"
+    ],
+    "district": "Ubungo",
+    "ward_or_area": "Manzese",
+    "street_or_address": "Farbeck House, Ground Floor, Manzese Darajani, Morogoro Road",
+    "phone": "+255 766 127 461",
+    "source_url": "https://www.yellowpages.co.tz/anicrop",
+    "source_type": "business_directory",
+    "description": "Veterinary pharmaceuticals, livestock pest control products, animal vitamins and farm inputs.",
+    "latitude": -6.798,
+    "longitude": 39.235
+  },
+  {
+    "business_name": "RiC Agrovet Co. Ltd (Mabibo Branch)",
+    "category": "AGROVET",
+    "secondary_categories": [
+      "VETERINARY_PHARMACY",
+      "LIVESTOCK_SUPPLIES"
+    ],
+    "district": "Ubungo",
+    "ward_or_area": "Mabibo",
+    "street_or_address": "Mabibo External / Morogoro Road",
+    "phone": "+255 713 555 444",
+    "website": "https://ricagrovet.co.tz",
+    "source_url": "https://ricagrovet.co.tz",
+    "source_type": "corporate_registry",
+    "description": "Suppliers of veterinary pharmaceuticals, vaccines, surgical instruments and livestock equipment.",
+    "latitude": -6.81,
+    "longitude": 39.225
+  },
+  {
+    "business_name": "ELFIL Agrovet International Tanzania Ltd",
+    "category": "AGROVET",
+    "secondary_categories": [
+      "ANIMAL_FEED",
+      "LIVESTOCK_SUPPLIES"
+    ],
+    "district": "Ubungo",
+    "ward_or_area": "Kimara",
+    "street_or_address": "Morogoro Road, Kimara Mwisho",
+    "phone": "+255 787 261 091",
+    "source_url": "https://www.facebook.com/elfilagrovet",
+    "source_type": "social_business_page",
+    "description": "Veterinary inputs, poultry feeds, animal health medicines, and farming consulting.",
+    "latitude": -6.795,
+    "longitude": 39.16
+  },
+  {
+    "business_name": "AM Animal Feeds (Mbezi Branch)",
+    "category": "POULTRY_FEED",
+    "secondary_categories": [
+      "ANIMAL_FEED"
+    ],
+    "district": "Ubungo",
+    "ward_or_area": "Mbezi",
+    "street_or_address": "Mbezi kwa Yusufu, Morogoro Road",
+    "phone": "+255 782 557 663",
+    "alternative_phone": "+255 677 136 022",
+    "source_url": "https://amanimalfeeds.co.tz",
+    "source_type": "business_directory",
+    "description": "Retail and wholesale store for poultry feeds, mash, broiler pellets and poultry accessories.",
+    "latitude": -6.72,
+    "longitude": 39.19
+  },
+  {
+    "business_name": "Smart Agrovet Goba",
+    "category": "AGROVET",
+    "secondary_categories": [
+      "POULTRY_SUPPLIES",
+      "ANIMAL_FEED"
+    ],
+    "district": "Ubungo",
+    "ward_or_area": "Goba",
+    "street_or_address": "Goba Centre, Goba Road",
+    "phone": "+255 689 895 763",
+    "source_url": "https://www.facebook.com/smartagrovettz",
+    "source_type": "social_business_page",
+    "description": "Agrovet retail shop supplying veterinary medicines, chick vaccines, feeds and expert farmer advisory.",
+    "latitude": -6.725,
+    "longitude": 39.145
+  },
+  {
+    "business_name": "Interchick Kiluvya Depot",
+    "category": "POULTRY_SUPPLIES",
+    "secondary_categories": [
+      "POULTRY_FEED"
+    ],
+    "district": "Ubungo",
+    "ward_or_area": "Kibamba",
+    "street_or_address": "Morogoro Road, Kiluvya / Kibamba",
+    "phone": "+255 683 128 783",
+    "source_url": "https://interchick.co.tz/depots",
+    "source_type": "corporate_registry",
+    "description": "Official Interchick depot supplying day-old chicks and poultry feeds to peri-urban farmers in Kibamba & Kiluvya.",
+    "latitude": -6.8,
+    "longitude": 39.1
+  },
+  {
+    "business_name": "Farmbase Limited (Headquarters)",
+    "category": "DISTRIBUTOR",
+    "secondary_categories": [
+      "VETERINARY_PHARMACY",
+      "ANIMAL_HEALTH_SUPPLIER",
+      "LIVESTOCK_SUPPLIES"
+    ],
+    "district": "Ilala",
+    "ward_or_area": "Kipawa",
+    "street_or_address": "Plot 37, Nyerere Road, Kipawa Industrial Area",
+    "phone": "+255 22 286 1145",
+    "alternative_phone": "+255 767 861 145",
+    "source_url": "https://www.farmbase.biz",
+    "source_type": "web_directory",
+    "description": "Major national importer and master distributor of veterinary medicines, livestock vaccines, animal health supplies, poultry equipment, and feed additives.",
+    "latitude": -6.8489,
+    "longitude": 39.2256
+  },
+  {
+    "business_name": "Anigrain Limited",
+    "category": "ANIMAL_FEED",
+    "secondary_categories": [
+      "POULTRY_FEED",
+      "WHOLESALER",
+      "LIVESTOCK_SUPPLIES"
+    ],
+    "district": "Ilala",
+    "ward_or_area": "Vingunguti",
+    "street_or_address": "Nyerere Road, Near Vingunguti Junction",
+    "phone": "+255 754 286 524",
+    "alternative_phone": "+255 22 286 2800",
+    "source_url": "https://anigrain.co.tz",
+    "source_type": "web_directory",
+    "description": "Large-scale commercial animal feed manufacturer producing Anifeed poultry feeds, broiler crumbles, layer pellets, and dairy meal.",
+    "latitude": -6.845,
+    "longitude": 39.231
+  },
+  {
+    "business_name": "Irvine's Tanzania Limited",
+    "category": "POULTRY_SUPPLIES",
+    "secondary_categories": [
+      "POULTRY_FEED",
+      "DISTRIBUTOR",
+      "ANIMAL_HEALTH_SUPPLIER"
+    ],
+    "district": "Ilala",
+    "ward_or_area": "Kipawa",
+    "street_or_address": "Plot 18 Kipawa Industrial Area, Nyerere Road",
+    "phone": "+255 744 555 111",
+    "alternative_phone": "+255 22 286 4220",
+    "source_url": "https://irvines.co.tz",
+    "source_type": "web_directory",
+    "description": "Leading producer and distributor of day-old chicks (Cobb 500 broilers, Bovans Brown layers), poultry nutrition, and technical poultry veterinary support.",
+    "latitude": -6.852,
+    "longitude": 39.221
+  },
+  {
+    "business_name": "Interchick Company Ltd (Commercial Depot)",
+    "category": "DISTRIBUTOR",
+    "secondary_categories": [
+      "POULTRY_SUPPLIES",
+      "POULTRY_FEED",
+      "VETERINARY_PHARMACY"
+    ],
+    "district": "Ilala",
+    "ward_or_area": "Gerezani",
+    "street_or_address": "Mbozi Road / Nyerere Road Junction, Industrial Area",
+    "phone": "+255 22 286 0300",
+    "alternative_phone": "+255 754 300 001",
+    "source_url": "https://www.interchicktz.com",
+    "source_type": "web_directory",
+    "description": "Pioneer poultry integration company providing day-old broiler and layer chicks, commercial feeds, broiler concentrates, and poultry pharmaceuticals.",
+    "latitude": -6.839,
+    "longitude": 39.255
+  },
+  {
+    "business_name": "Tanfeed International Ltd (Gerezani Depot)",
+    "category": "ANIMAL_FEED",
+    "secondary_categories": [
+      "POULTRY_FEED",
+      "WHOLESALER",
+      "LIVESTOCK_SUPPLIES"
+    ],
+    "district": "Ilala",
+    "ward_or_area": "Gerezani",
+    "street_or_address": "Gerezani Street, Near Railway Crossing, Ilala",
+    "phone": "+255 758 800 200",
+    "alternative_phone": "+255 689 445 566",
+    "source_url": "https://www.tanfeed.co.tz",
+    "source_type": "web_directory",
+    "description": "Specialized animal feeds manufacturer and distributor supplying poultry feeds, swine feeds, dairy concentrates, and mineral premixes.",
+    "latitude": -6.824,
+    "longitude": 39.281
+  },
+  {
+    "business_name": "Kariakoo Vet Agrovet Center",
+    "category": "VETERINARY_PHARMACY",
+    "secondary_categories": [
+      "AGROVET",
+      "POULTRY_SUPPLIES",
+      "WHOLESALER"
+    ],
+    "district": "Ilala",
+    "ward_or_area": "Kariakoo",
+    "street_or_address": "Msimbazi Street / Swahili Street, Kariakoo Market Area",
+    "phone": "+255 713 456 789",
+    "alternative_phone": "+255 754 998 877",
+    "source_url": "https://www.yellowpages.co.tz/search/veterinary/kariakoo",
+    "source_type": "web_directory",
+    "description": "High-traffic veterinary pharmaceutical wholesaler and retailer in Kariakoo, stocking livestock antibiotics, anthelmintics, poultry vaccines, and drinkers.",
+    "latitude": -6.8205,
+    "longitude": 39.276
+  },
+  {
+    "business_name": "Afrovet Supplies Limited",
+    "category": "WHOLESALER",
+    "secondary_categories": [
+      "VETERINARY_PHARMACY",
+      "DISTRIBUTOR",
+      "ANIMAL_HEALTH_SUPPLIER"
+    ],
+    "district": "Ilala",
+    "ward_or_area": "Kariakoo",
+    "street_or_address": "Narung'ombe Street, Kariakoo",
+    "phone": "+255 22 218 0550",
+    "alternative_phone": "+255 784 218 055",
+    "source_url": "https://afrovet.co.tz",
+    "source_type": "web_directory",
+    "description": "Wholesale distributor of quality animal health products, veterinary instruments, and poultry medications across Dar es Salaam and upcountry regions.",
+    "latitude": -6.822,
+    "longitude": 39.2785
+  },
+  {
+    "business_name": "Agrovet Buguruni Central",
+    "category": "AGROVET",
+    "secondary_categories": [
+      "POULTRY_SUPPLIES",
+      "POULTRY_FEED",
+      "VETERINARY_SHOP"
+    ],
+    "district": "Ilala",
+    "ward_or_area": "Buguruni",
+    "street_or_address": "Buguruni Chama, Mandela Road / Uhuru Street Junction",
+    "phone": "+255 715 889 900",
+    "alternative_phone": "+255 765 443 322",
+    "source_url": "https://www.cybo.com/TZ-biz/agrovet-buguruni",
+    "source_type": "web_directory",
+    "description": "Prominent poultry and veterinary supply retail center in Buguruni, providing commercial feeds, day-old broiler and kuroiler chicks, and veterinary care.",
+    "latitude": -6.831,
+    "longitude": 39.248
+  },
+  {
+    "business_name": "Rich Super Feeds (Buguruni Hub)",
+    "category": "POULTRY_FEED",
+    "secondary_categories": [
+      "ANIMAL_FEED",
+      "WHOLESALER",
+      "POULTRY_SUPPLIES"
+    ],
+    "district": "Ilala",
+    "ward_or_area": "Buguruni",
+    "street_or_address": "Uhuru Street, Buguruni",
+    "phone": "+255 762 112 233",
+    "alternative_phone": "+255 654 332 211",
+    "source_url": "https://www.zoomtanzania.com/buguruni-feeds",
+    "source_type": "web_directory",
+    "description": "High-volume distributor of commercial poultry feeds including Silverlands, Interchick, and Hill Feed, along with bran and sunflower meal.",
+    "latitude": -6.8335,
+    "longitude": 39.245
+  },
+  {
+    "business_name": "JOACK Agrovet Center (Buguruni Branch)",
+    "category": "AGROVET",
+    "secondary_categories": [
+      "POULTRY_FEED",
+      "VETERINARY_SHOP",
+      "POULTRY_SUPPLIES"
+    ],
+    "district": "Ilala",
+    "ward_or_area": "Buguruni",
+    "street_or_address": "Buguruni Malapa, Ilala",
+    "phone": "+255 712 253 103",
+    "alternative_phone": "+255 745 253 100",
+    "source_url": "https://joack.co.tz/branches",
+    "source_type": "web_directory",
+    "description": "Branch outlet of JOACK Agrovet supplying poultry feeds, veterinary treatments, livestock vitamins, and day-old chicks.",
+    "latitude": -6.83,
+    "longitude": 39.2505
+  },
+  {
+    "business_name": "Vingunguti Livestock & Vet Inputs Centre",
+    "category": "LIVESTOCK_SUPPLIES",
+    "secondary_categories": [
+      "VETERINARY_SHOP",
+      "AGROVET",
+      "ANIMAL_HEALTH_SUPPLIER"
+    ],
+    "district": "Ilala",
+    "ward_or_area": "Vingunguti",
+    "street_or_address": "Kombo Street, Near Vingunguti Abattoir",
+    "phone": "+255 755 432 109",
+    "alternative_phone": "+255 713 889 001",
+    "source_url": "https://www.yellowpages.co.tz/vingunguti-livestock",
+    "source_type": "web_directory",
+    "description": "Specialized cattle, sheep, and goat livestock supply centre near the municipal abattoir, selling acaricides, dewormers, wound sprays, and salt blocks.",
+    "latitude": -6.8415,
+    "longitude": 39.239
+  },
+  {
+    "business_name": "Tabata Agrovet & Animal Health Store",
+    "category": "AGROVET",
+    "secondary_categories": [
+      "POULTRY_FEED",
+      "VETERINARY_SHOP",
+      "POULTRY_SUPPLIES"
+    ],
+    "district": "Ilala",
+    "ward_or_area": "Tabata",
+    "street_or_address": "Mandela Road, Near Tabata Bima",
+    "phone": "+255 714 678 910",
+    "alternative_phone": "+255 768 223 344",
+    "source_url": "https://www.cybo.com/TZ-biz/tabata-agrovet",
+    "source_type": "web_directory",
+    "description": "Serving urban poultry and pet owners in Tabata with vaccines, chick starter crumbs, feeding troughs, drinkers, and pest control chemicals.",
+    "latitude": -6.826,
+    "longitude": 39.232
+  },
+  {
+    "business_name": "Tabata Segerea Animal Feeds & Vet Care",
+    "category": "ANIMAL_FEED",
+    "secondary_categories": [
+      "AGROVET",
+      "POULTRY_FEED",
+      "VETERINARY_SHOP"
+    ],
+    "district": "Ilala",
+    "ward_or_area": "Tabata",
+    "street_or_address": "Segerea Mwisho, Tabata Segerea",
+    "phone": "+255 768 901 234",
+    "alternative_phone": "+255 659 123 456",
+    "source_url": "https://www.yellowpages.co.tz/tabata-segerea-feeds",
+    "source_type": "web_directory",
+    "description": "Retail and wholesale merchant of poultry feeds, layers mash, broiler finisher, and basic veterinary medications.",
+    "latitude": -6.835,
+    "longitude": 39.215
+  },
+  {
+    "business_name": "Gongolamboto Agrovet Depot",
+    "category": "AGROVET",
+    "secondary_categories": [
+      "ANIMAL_FEED",
+      "LIVESTOCK_SUPPLIES",
+      "VETERINARY_SHOP"
+    ],
+    "district": "Ilala",
+    "ward_or_area": "Gongolamboto",
+    "street_or_address": "Julius Nyerere Road, Gongolamboto Mwisho",
+    "phone": "+255 754 887 766",
+    "alternative_phone": "+255 715 887 766",
+    "source_url": "https://www.cybo.com/TZ-biz/gongolamboto-agrovet",
+    "source_type": "web_directory",
+    "description": "Strategic peri-urban agrovet hub supplying poultry feed, cattle dip chemicals, veterinary drugs, and day-old chicks to farmers along Pugu corridor.",
+    "latitude": -6.877,
+    "longitude": 39.172
+  },
+  {
+    "business_name": "Banana Agrovet Supplies",
+    "category": "AGROVET",
+    "secondary_categories": [
+      "POULTRY_FEED",
+      "VETERINARY_SHOP",
+      "POULTRY_SUPPLIES"
+    ],
+    "district": "Ilala",
+    "ward_or_area": "Kipawa",
+    "street_or_address": "Banana Bus Stop, Pugu Road / Airport Area",
+    "phone": "+255 716 334 455",
+    "alternative_phone": "+255 755 334 455",
+    "source_url": "https://www.yellowpages.co.tz/banana-agrovet",
+    "source_type": "web_directory",
+    "description": "Stockist of livestock feeds, broiler starter crumbles, dewormers, multivitamins, and poultry spraying equipment.",
+    "latitude": -6.862,
+    "longitude": 39.195
+  },
+  {
+    "business_name": "Kitunda Animal Health & Feeds Centre",
+    "category": "AGROVET",
+    "secondary_categories": [
+      "POULTRY_FEED",
+      "POULTRY_SUPPLIES",
+      "VETERINARY_SHOP"
+    ],
+    "district": "Ilala",
+    "ward_or_area": "Kitunda",
+    "street_or_address": "Kitunda Kati, Main Road",
+    "phone": "+255 759 223 344",
+    "alternative_phone": "+255 712 112 299",
+    "source_url": "https://www.cybo.com/TZ-biz/kitunda-agrovet",
+    "source_type": "web_directory",
+    "description": "Primary agricultural and poultry supply provider in Kitunda, supplying day-old chicks, feeds, Newcastle and Gumboro vaccines, and disinfectants.",
+    "latitude": -6.891,
+    "longitude": 39.208
+  },
+  {
+    "business_name": "Chanika Livestock & Agrovet Hub",
+    "category": "AGROVET",
+    "secondary_categories": [
+      "LIVESTOCK_SUPPLIES",
+      "ANIMAL_FEED",
+      "VETERINARY_SHOP"
+    ],
+    "district": "Ilala",
+    "ward_or_area": "Chanika",
+    "street_or_address": "Chanika Mwisho, Main Market Street",
+    "phone": "+255 787 654 321",
+    "alternative_phone": "+255 754 654 321",
+    "source_url": "https://www.yellowpages.co.tz/chanika-agrovet",
+    "source_type": "web_directory",
+    "description": "Comprehensive agrovet serving extensive dairy cattle, goat, and poultry smallholders in peri-urban Chanika.",
+    "latitude": -6.955,
+    "longitude": 39.145
+  },
+  {
+    "business_name": "Kinyerezi Vet Care & Poultry Centre",
+    "category": "AGROVET",
+    "secondary_categories": [
+      "POULTRY_FEED",
+      "POULTRY_SUPPLIES",
+      "VETERINARY_SHOP"
+    ],
+    "district": "Ilala",
+    "ward_or_area": "Kinyerezi",
+    "street_or_address": "Kinyerezi Kanga, Kinyerezi Road",
+    "phone": "+255 718 998 877",
+    "alternative_phone": "+255 765 889 900",
+    "source_url": "https://www.cybo.com/TZ-biz/kinyerezi-vet",
+    "source_type": "web_directory",
+    "description": "Poultry feeds retailer, chicks depot, broiler medications, and household pet healthcare products store.",
+    "latitude": -6.821,
+    "longitude": 39.198
+  },
+  {
+    "business_name": "Kivule Agrovet & Veterinary Services",
+    "category": "AGROVET",
+    "secondary_categories": [
+      "ANIMAL_HEALTH_SUPPLIER",
+      "POULTRY_FEED",
+      "VETERINARY_SHOP"
+    ],
+    "district": "Ilala",
+    "ward_or_area": "Kivule",
+    "street_or_address": "Kivule Magole, Kivule Road",
+    "phone": "+255 765 119 922",
+    "alternative_phone": "+255 713 445 566",
+    "source_url": "https://www.yellowpages.co.tz/kivule-agrovet",
+    "source_type": "web_directory",
+    "description": "Supplies veterinary medicines, poultry vaccines, day-old chicks, and livestock feeds to farmers in Kivule.",
+    "latitude": -6.915,
+    "longitude": 39.182
+  },
+  {
+    "business_name": "Pugu Kajiungeni Agrovet",
+    "category": "AGROVET",
+    "secondary_categories": [
+      "LIVESTOCK_SUPPLIES",
+      "ANIMAL_FEED",
+      "AGRICULTURAL_INPUTS"
+    ],
+    "district": "Ilala",
+    "ward_or_area": "Pugu",
+    "street_or_address": "Pugu Kajiungeni, Pugu Station Road",
+    "phone": "+255 713 908 172",
+    "alternative_phone": "+255 784 908 172",
+    "source_url": "https://www.cybo.com/TZ-biz/pugu-agrovet",
+    "source_type": "web_directory",
+    "description": "Livestock and agricultural inputs store offering cattle tick dips, anthelmintics, poultry feed, and farm implements.",
+    "latitude": -6.885,
+    "longitude": 39.135
+  },
+  {
+    "business_name": "J.M. Animal Feeds & Veterinary Centre",
+    "category": "POULTRY_FEED",
+    "secondary_categories": [
+      "AGROVET",
+      "ANIMAL_FEED",
+      "VETERINARY_SHOP"
+    ],
+    "district": "Temeke",
+    "ward_or_area": "Mbagala",
+    "street_or_address": "Mbagala Rangi Tatu, Kilwa Road",
+    "phone": "+255 715 654 321",
+    "alternative_phone": "+255 754 654 322",
+    "source_url": "https://www.yellowpages.co.tz/jm-animal-feeds",
+    "source_type": "web_directory",
+    "description": "High-volume poultry feed distributor (Silverlands, Kibo, Interchick), veterinary drugs, dewormers, and livestock vitamin supplements.",
+    "latitude": -6.908,
+    "longitude": 39.262
+  },
+  {
+    "business_name": "Mbagala Zakhem Agrovet Supplies",
+    "category": "AGROVET",
+    "secondary_categories": [
+      "POULTRY_SUPPLIES",
+      "VETERINARY_PHARMACY",
+      "POULTRY_FEED"
+    ],
+    "district": "Temeke",
+    "ward_or_area": "Mbagala",
+    "street_or_address": "Zakhem Market Area, Kilwa Road",
+    "phone": "+255 764 123 789",
+    "alternative_phone": "+255 713 123 789",
+    "source_url": "https://www.cybo.com/TZ-biz/mbagala-zakhem-agrovet",
+    "source_type": "web_directory",
+    "description": "Extensive stock of poultry vaccines, antibiotics, automatic feeders, drinkers, disinfectants, and pest control products.",
+    "latitude": -6.897,
+    "longitude": 39.268
+  },
+  {
+    "business_name": "Mandela Kuku & Animal Health Hub",
+    "category": "POULTRY_SUPPLIES",
+    "secondary_categories": [
+      "POULTRY_FEED",
+      "AGROVET",
+      "VETERINARY_SHOP"
+    ],
+    "district": "Temeke",
+    "ward_or_area": "Temeke",
+    "street_or_address": "Mandela Road / Temeke Stereo Junction",
+    "phone": "+255 713 556 677",
+    "alternative_phone": "+255 768 556 677",
+    "source_url": "https://www.yellowpages.co.tz/mandela-kuku",
+    "source_type": "web_directory",
+    "description": "Day-old chicks supplier (kuroiler, broiler, sasso), poultry feed, heating equipment, vaccines, and advisory services.",
+    "latitude": -6.852,
+    "longitude": 39.264
+  },
+  {
+    "business_name": "Tandika Veterinary & Poultry Feeds",
+    "category": "POULTRY_FEED",
+    "secondary_categories": [
+      "AGROVET",
+      "ANIMAL_FEED",
+      "POULTRY_SUPPLIES"
+    ],
+    "district": "Temeke",
+    "ward_or_area": "Tandika",
+    "street_or_address": "Tandika Market Street, Tandika",
+    "phone": "+255 754 443 322",
+    "alternative_phone": "+255 715 443 322",
+    "source_url": "https://www.cybo.com/TZ-biz/tandika-vet-feeds",
+    "source_type": "web_directory",
+    "description": "Located in the live poultry market hub, offering feed concentrates, layers mash, broiler starter, coccidiostats, and vitamins.",
+    "latitude": -6.861,
+    "longitude": 39.267
+  },
+  {
+    "business_name": "Chang'ombe Agrovet & Livestock Inputs",
+    "category": "AGROVET",
+    "secondary_categories": [
+      "LIVESTOCK_SUPPLIES",
+      "VETERINARY_SHOP",
+      "ANIMAL_HEALTH_SUPPLIER"
+    ],
+    "district": "Temeke",
+    "ward_or_area": "Chang'ombe",
+    "street_or_address": "Chang'ombe Industrial Area, Pugu Road Junction",
+    "phone": "+255 22 286 5544",
+    "alternative_phone": "+255 754 286 554",
+    "source_url": "https://www.yellowpages.co.tz/changombe-agrovet",
+    "source_type": "web_directory",
+    "description": "Cattle dewormers, acaricides, dairy mineral blocks, milking equipment, and poultry pharmaceuticals.",
+    "latitude": -6.848,
+    "longitude": 39.261
+  },
+  {
+    "business_name": "BioFoods & Feeds Ltd (Mbagala Branch)",
+    "category": "ANIMAL_FEED",
+    "secondary_categories": [
+      "POULTRY_FEED",
+      "WHOLESALER",
+      "LIVESTOCK_SUPPLIES"
+    ],
+    "district": "Temeke",
+    "ward_or_area": "Mbagala",
+    "street_or_address": "Mbagala Majimatitu, Off Kilwa Road",
+    "phone": "+255 758 112 233",
+    "alternative_phone": "+255 713 112 233",
+    "source_url": "https://www.biofoodstz.com",
+    "source_type": "web_directory",
+    "description": "Animal feed milling depot, poultry crumbles, maize bran, sunflower seed cake, and complete feed stockist.",
+    "latitude": -6.92,
+    "longitude": 39.255
+  },
+  {
+    "business_name": "Kerege Agrovet & Veterinary Services",
+    "category": "VETERINARY_SERVICE",
+    "secondary_categories": [
+      "AGROVET",
+      "POULTRY_SUPPLIES",
+      "VETERINARY_SHOP"
+    ],
+    "district": "Temeke",
+    "ward_or_area": "Mbagala",
+    "street_or_address": "Kerege, Mbagala Kuu",
+    "phone": "+255 712 998 811",
+    "alternative_phone": "+255 767 998 811",
+    "source_url": "https://www.cybo.com/TZ-biz/kerege-agrovet",
+    "source_type": "web_directory",
+    "description": "Field veterinary consultation, poultry vaccination protocols (Newcastle, Gumboro), poultry feeds, and farm disinfectants.",
+    "latitude": -6.885,
+    "longitude": 39.275
+  },
+  {
+    "business_name": "Pestguard & Veterinary Supplies",
+    "category": "ANIMAL_HEALTH_SUPPLIER",
+    "secondary_categories": [
+      "VETERINARY_PHARMACY",
+      "AGRICULTURAL_INPUTS",
+      "DISTRIBUTOR"
+    ],
+    "district": "Temeke",
+    "ward_or_area": "Chang'ombe",
+    "street_or_address": "Plot 42 Chang'ombe Road, Temeke",
+    "phone": "+255 22 286 1666",
+    "alternative_phone": "+255 784 286 166",
+    "source_url": "https://pestguard.co.tz",
+    "source_type": "web_directory",
+    "description": "Veterinary biosecurity products, poultry farm disinfectants, public health insecticides, and livestock spray treatments.",
+    "latitude": -6.845,
+    "longitude": 39.265
+  },
+  {
+    "business_name": "AM Animal Feeds (Kongowe Hub)",
+    "category": "ANIMAL_FEED",
+    "secondary_categories": [
+      "POULTRY_FEED",
+      "WHOLESALER",
+      "DISTRIBUTOR"
+    ],
+    "district": "Temeke",
+    "ward_or_area": "Kongowe",
+    "street_or_address": "Kilwa Road, Kongowe Bus Stand",
+    "phone": "+255 767 334 455",
+    "alternative_phone": "+255 718 334 455",
+    "source_url": "https://www.yellowpages.co.tz/am-feeds-kongowe",
+    "source_type": "web_directory",
+    "description": "Major feed wholesale depot supplying commercial poultry feeds, dairy meals, and feed ingredients to southern Dar es Salaam.",
+    "latitude": -6.965,
+    "longitude": 39.268
+  },
+  {
+    "business_name": "Kongowe Agrovet Center",
+    "category": "AGROVET",
+    "secondary_categories": [
+      "LIVESTOCK_SUPPLIES",
+      "POULTRY_FEED",
+      "VETERINARY_SHOP"
+    ],
+    "district": "Temeke",
+    "ward_or_area": "Kongowe",
+    "street_or_address": "Kongowe Mwisho, Kilwa Road",
+    "phone": "+255 714 223 355",
+    "alternative_phone": "+255 755 223 355",
+    "source_url": "https://www.cybo.com/TZ-biz/kongowe-agrovet",
+    "source_type": "web_directory",
+    "description": "Supplies day-old chicks, broiler finisher, layer mash, veterinary antibiotics, and cattle acaricides to peri-urban producers.",
+    "latitude": -6.967,
+    "longitude": 39.269
+  },
+  {
+    "business_name": "Chamazi Agrovet & Poultry Supplies",
+    "category": "AGROVET",
+    "secondary_categories": [
+      "POULTRY_FEED",
+      "POULTRY_SUPPLIES",
+      "VETERINARY_SHOP"
+    ],
+    "district": "Temeke",
+    "ward_or_area": "Chamazi",
+    "street_or_address": "Chamazi Magengeni, Main Road",
+    "phone": "+255 755 889 911",
+    "alternative_phone": "+255 713 889 911",
+    "source_url": "https://www.yellowpages.co.tz/chamazi-agrovet",
+    "source_type": "web_directory",
+    "description": "Serving the dense smallholder poultry farming cluster in Chamazi with quality feeds, vaccines, and veterinary equipment.",
+    "latitude": -6.938,
+    "longitude": 39.241
+  },
+  {
+    "business_name": "Toangoma Animal Health Centre",
+    "category": "AGROVET",
+    "secondary_categories": [
+      "VETERINARY_SHOP",
+      "POULTRY_FEED",
+      "POULTRY_SUPPLIES"
+    ],
+    "district": "Temeke",
+    "ward_or_area": "Toangoma",
+    "street_or_address": "Toangoma Kati, Toangoma",
+    "phone": "+255 763 445 566",
+    "alternative_phone": "+255 714 445 566",
+    "source_url": "https://www.cybo.com/TZ-biz/toangoma-animal-health",
+    "source_type": "web_directory",
+    "description": "Vaccines, day-old chicks, broiler feeds, layer mash, and veterinary technical support for poultry and goat keepers.",
+    "latitude": -6.931,
+    "longitude": 39.298
+  },
+  {
+    "business_name": "Buza Agrovet & Poultry Feed",
+    "category": "POULTRY_FEED",
+    "secondary_categories": [
+      "AGROVET",
+      "POULTRY_SUPPLIES",
+      "VETERINARY_SHOP"
+    ],
+    "district": "Temeke",
+    "ward_or_area": "Buza",
+    "street_or_address": "Buza Kanisani, Buza Main Road",
+    "phone": "+255 717 667 788",
+    "alternative_phone": "+255 758 667 788",
+    "source_url": "https://www.yellowpages.co.tz/buza-agrovet",
+    "source_type": "web_directory",
+    "description": "Retailer of commercial poultry feeds, feeding troughs, drinkers, multivitamins, and poultry stress packs.",
+    "latitude": -6.879,
+    "longitude": 39.251
+  },
+  {
+    "business_name": "Yombo Vituka Vet Care",
+    "category": "VETERINARY_SHOP",
+    "secondary_categories": [
+      "AGROVET",
+      "POULTRY_FEED",
+      "ANIMAL_HEALTH_SUPPLIER"
+    ],
+    "district": "Temeke",
+    "ward_or_area": "Yombo Vituka",
+    "street_or_address": "Yombo Vituka Sokoni",
+    "phone": "+255 756 778 899",
+    "alternative_phone": "+255 712 778 899",
+    "source_url": "https://www.cybo.com/TZ-biz/yombo-vituka-vet",
+    "source_type": "web_directory",
+    "description": "Community veterinary shop providing dog anti-rabies vaccination, poultry antibiotics, and pet care essentials.",
+    "latitude": -6.868,
+    "longitude": 39.258
+  },
+  {
+    "business_name": "Charambe Animal Feeds & Vet Shop",
+    "category": "ANIMAL_FEED",
+    "secondary_categories": [
+      "AGROVET",
+      "POULTRY_FEED",
+      "LIVESTOCK_SUPPLIES"
+    ],
+    "district": "Temeke",
+    "ward_or_area": "Charambe",
+    "street_or_address": "Charambe Mwisho, Temeke",
+    "phone": "+255 719 001 122",
+    "alternative_phone": "+255 765 001 122",
+    "source_url": "https://www.yellowpages.co.tz/charambe-feeds",
+    "source_type": "web_directory",
+    "description": "Livestock feeds, layer mash, broiler crumbles, pig feeds, and basic veterinary medicines for smallholders.",
+    "latitude": -6.925,
+    "longitude": 39.271
+  },
+  {
+    "business_name": "Kurasini Port Vet Supplies",
+    "category": "WHOLESALER",
+    "secondary_categories": [
+      "ANIMAL_HEALTH_SUPPLIER",
+      "DISTRIBUTOR",
+      "VETERINARY_PHARMACY"
+    ],
+    "district": "Temeke",
+    "ward_or_area": "Kurasini",
+    "street_or_address": "Bandari Road, Near Port Gate, Kurasini",
+    "phone": "+255 22 285 0100",
+    "alternative_phone": "+255 754 285 010",
+    "source_url": "https://www.yellowpages.co.tz/kurasini-port-vet",
+    "source_type": "web_directory",
+    "description": "Stockist and distributor of imported veterinary nutritional additives, amino acid premixes, and biosecurity chemicals.",
+    "latitude": -6.842,
+    "longitude": 39.288
+  },
+  {
+    "business_name": "Temeke Veterinary Clinic & Pharmacy",
+    "category": "VETERINARY_SERVICE",
+    "secondary_categories": [
+      "VETERINARY_PHARMACY",
+      "ANIMAL_HEALTH_SUPPLIER"
+    ],
+    "district": "Temeke",
+    "ward_or_area": "Temeke",
+    "street_or_address": "Taifa Road, Opposite Uhuru Stadium, Temeke",
+    "phone": "+255 754 876 543",
+    "alternative_phone": "+255 22 286 3311",
+    "source_url": "https://www.yellowpages.co.tz/temeke-vet-clinic",
+    "source_type": "web_directory",
+    "description": "Veterinary clinical consultation, livestock treatment, surgical procedures, and veterinary pharmaceuticals dispensing.",
+    "latitude": -6.855,
+    "longitude": 39.272
+  },
+  {
+    "business_name": "Kilwa Road Agrovet (Mtoni)",
+    "category": "AGROVET",
+    "secondary_categories": [
+      "POULTRY_FEED",
+      "POULTRY_SUPPLIES",
+      "VETERINARY_SHOP"
+    ],
+    "district": "Temeke",
+    "ward_or_area": "Mtoni",
+    "street_or_address": "Mtoni Kwa Aziz Ali, Kilwa Road",
+    "phone": "+255 713 778 890",
+    "alternative_phone": "+255 769 778 890",
+    "source_url": "https://www.cybo.com/TZ-biz/mtoni-agrovet",
+    "source_type": "web_directory",
+    "description": "Poultry feeds, day-old chicks distribution point, and veterinary medications along Kilwa Road.",
+    "latitude": -6.869,
+    "longitude": 39.278
+  },
+  {
+    "business_name": "Kibada Agrovet & Animal Health Centre",
+    "category": "AGROVET",
+    "secondary_categories": [
+      "POULTRY_FEED",
+      "POULTRY_SUPPLIES",
+      "VETERINARY_SHOP"
+    ],
+    "district": "Kigamboni",
+    "ward_or_area": "Kibada",
+    "street_or_address": "Kibada Center, Main Road",
+    "phone": "+255 764 889 001",
+    "alternative_phone": "+255 714 889 001",
+    "source_url": "https://www.yellowpages.co.tz/kibada-agrovet",
+    "source_type": "web_directory",
+    "description": "Strategic agrovet hub in Kigamboni supplying commercial feeds (Hill, Interchick, Silverlands), vaccines, and veterinary medicines.",
+    "latitude": -6.892,
+    "longitude": 39.345
+  },
+  {
+    "business_name": "Kibugumo Agrovet & Poultry Store",
+    "category": "AGROVET",
+    "secondary_categories": [
+      "POULTRY_FEED",
+      "POULTRY_SUPPLIES",
+      "VETERINARY_SHOP"
+    ],
+    "district": "Kigamboni",
+    "ward_or_area": "Kibada",
+    "street_or_address": "Kibugumo Road, Kibada",
+    "phone": "+255 715 334 221",
+    "alternative_phone": "+255 765 334 221",
+    "source_url": "https://www.cybo.com/TZ-biz/kibugumo-agrovet",
+    "source_type": "web_directory",
+    "description": "Serving poultry and small dairy farmers with poultry feeds, automatic drinkers, vaccines, and broad-spectrum anthelmintics.",
+    "latitude": -6.899,
+    "longitude": 39.351
+  },
+  {
+    "business_name": "Kigamboni Ferry Vet & Pet Care",
+    "category": "VETERINARY_SHOP",
+    "secondary_categories": [
+      "VETERINARY_SERVICE",
+      "ANIMAL_HEALTH_SUPPLIER",
+      "AGROVET"
+    ],
+    "district": "Kigamboni",
+    "ward_or_area": "Magogoni",
+    "street_or_address": "Ferry Road, Near Kigamboni Ferry Terminal",
+    "phone": "+255 754 990 011",
+    "alternative_phone": "+255 712 990 011",
+    "source_url": "https://www.yellowpages.co.tz/kigamboni-ferry-vet",
+    "source_type": "web_directory",
+    "description": "Veterinary pharmaceuticals, dog and cat vaccines, anti-rabies vaccination, pet foods, and livestock supplies.",
+    "latitude": -6.829,
+    "longitude": 39.299
+  },
+  {
+    "business_name": "Vijibweni Animal Feeds & Agro Supplies",
+    "category": "POULTRY_FEED",
+    "secondary_categories": [
+      "AGROVET",
+      "ANIMAL_FEED",
+      "POULTRY_SUPPLIES"
+    ],
+    "district": "Kigamboni",
+    "ward_or_area": "Vijibweni",
+    "street_or_address": "Vijibweni Sokoni, Kigamboni",
+    "phone": "+255 713 881 223",
+    "alternative_phone": "+255 754 881 223",
+    "source_url": "https://www.cybo.com/TZ-biz/vijibweni-feeds",
+    "source_type": "web_directory",
+    "description": "Poultry feeds (broiler crumbles, layers mash, grower pellets), vitamin concentrates, and chick brooding supplies.",
+    "latitude": -6.845,
+    "longitude": 39.312
+  },
+  {
+    "business_name": "Tanves Enterprises (Kigamboni Hub)",
+    "category": "DISTRIBUTOR",
+    "secondary_categories": [
+      "ANIMAL_HEALTH_SUPPLIER",
+      "VETERINARY_PHARMACY",
+      "POULTRY_SUPPLIES"
+    ],
+    "district": "Kigamboni",
+    "ward_or_area": "Mjimwema",
+    "street_or_address": "Mjimwema Road, Near St. Joseph University",
+    "phone": "+255 756 123 987",
+    "alternative_phone": "+255 784 123 987",
+    "source_url": "https://tanves.co.tz",
+    "source_type": "web_directory",
+    "description": "Veterinary pharmaceuticals, feed additives, poultry automation equipment, and biosecurity disinfectants distributor.",
+    "latitude": -6.862,
+    "longitude": 39.332
+  },
+  {
+    "business_name": "Feed Fusion TZ (Kigamboni Feed Depot)",
+    "category": "ANIMAL_FEED",
+    "secondary_categories": [
+      "POULTRY_FEED",
+      "WHOLESALER",
+      "LIVESTOCK_SUPPLIES"
+    ],
+    "district": "Kigamboni",
+    "ward_or_area": "Kibada",
+    "street_or_address": "Kibada - Kisarawe II Road",
+    "phone": "+255 784 556 789",
+    "alternative_phone": "+255 714 556 789",
+    "source_url": "https://www.yellowpages.co.tz/feed-fusion-tz",
+    "source_type": "web_directory",
+    "description": "High-volume wholesale distributor of commercial poultry feeds, dairy meals, sunflower cakes, and mineral licks.",
+    "latitude": -6.905,
+    "longitude": 39.349
+  },
+  {
+    "business_name": "Interchick Kigamboni Agency & Chick Depot",
+    "category": "POULTRY_SUPPLIES",
+    "secondary_categories": [
+      "DISTRIBUTOR",
+      "POULTRY_FEED",
+      "VETERINARY_SHOP"
+    ],
+    "district": "Kigamboni",
+    "ward_or_area": "Kibada",
+    "street_or_address": "Kibada Junction, Kigamboni",
+    "phone": "+255 767 443 322",
+    "alternative_phone": "+255 715 443 322",
+    "source_url": "https://www.interchicktz.com/depots",
+    "source_type": "web_directory",
+    "description": "Official distribution depot for day-old broiler and layer chicks, commercial feeds, broiler concentrates, and farmer advisory.",
+    "latitude": -6.891,
+    "longitude": 39.344
+  },
+  {
+    "business_name": "Somangila Agrovet & Poultry Care",
+    "category": "AGROVET",
+    "secondary_categories": [
+      "POULTRY_FEED",
+      "VETERINARY_SHOP",
+      "POULTRY_SUPPLIES"
+    ],
+    "district": "Kigamboni",
+    "ward_or_area": "Somangila",
+    "street_or_address": "Somangila Mwisho, Kigamboni Coastal Road",
+    "phone": "+255 718 776 543",
+    "alternative_phone": "+255 768 776 543",
+    "source_url": "https://www.cybo.com/TZ-biz/somangila-agrovet",
+    "source_type": "web_directory",
+    "description": "Serving coastal poultry farms with vaccines, feed concentrates, broiler medications, and veterinary supplies.",
+    "latitude": -6.935,
+    "longitude": 39.412
+  },
+  {
+    "business_name": "Gezaulole Animal Health & Feeds",
+    "category": "AGROVET",
+    "secondary_categories": [
+      "ANIMAL_FEED",
+      "POULTRY_FEED",
+      "VETERINARY_SHOP"
+    ],
+    "district": "Kigamboni",
+    "ward_or_area": "Somangila",
+    "street_or_address": "Gezaulole Center, Kigamboni",
+    "phone": "+255 759 332 110",
+    "alternative_phone": "+255 713 332 110",
+    "source_url": "https://www.yellowpages.co.tz/gezaulole-agrovet",
+    "source_type": "web_directory",
+    "description": "Agrovet providing poultry and goat feeds, veterinary antibiotics, vitamin supplements, and tick spray chemicals.",
+    "latitude": -6.883,
+    "longitude": 39.362
+  },
+  {
+    "business_name": "Kisarawe II Livestock & Vet Services",
+    "category": "VETERINARY_SERVICE",
+    "secondary_categories": [
+      "LIVESTOCK_SUPPLIES",
+      "AGROVET",
+      "VETERINARY_SHOP"
+    ],
+    "district": "Kigamboni",
+    "ward_or_area": "Kisarawe II",
+    "street_or_address": "Kisarawe II Kati, Kigamboni",
+    "phone": "+255 765 009 887",
+    "alternative_phone": "+255 715 009 887",
+    "source_url": "https://www.cybo.com/TZ-biz/kisarawe-ii-vet",
+    "source_type": "web_directory",
+    "description": "Cattle dewormers, tick control acaricides, poultry feeds, artificial insemination supplies, and veterinary clinical care.",
+    "latitude": -6.921,
+    "longitude": 39.338
+  },
+  {
+    "business_name": "Kimbiji Agrovet & Vet Supply",
+    "category": "AGROVET",
+    "secondary_categories": [
+      "LIVESTOCK_SUPPLIES",
+      "ANIMAL_FEED",
+      "VETERINARY_SHOP"
+    ],
+    "district": "Kigamboni",
+    "ward_or_area": "Kimbiji",
+    "street_or_address": "Kimbiji Sokoni, Kigamboni",
+    "phone": "+255 712 665 432",
+    "alternative_phone": "+255 754 665 432",
+    "source_url": "https://www.yellowpages.co.tz/kimbiji-agrovet",
+    "source_type": "web_directory",
+    "description": "Community agrovet store serving cattle, goat, and indigenous poultry keepers in southern Kigamboni with essential medicines.",
+    "latitude": -6.985,
+    "longitude": 39.489
+  },
+  {
+    "business_name": "TAFICO Veterinary & Animal Feeds Centre",
+    "category": "ANIMAL_FEED",
+    "secondary_categories": [
+      "AGROVET",
+      "LIVESTOCK_SUPPLIES",
+      "POULTRY_FEED"
+    ],
+    "district": "Kigamboni",
+    "ward_or_area": "Mjimwema",
+    "street_or_address": "Ras Dege Road, Kigamboni",
+    "phone": "+255 754 771 234",
+    "alternative_phone": "+255 714 771 234",
+    "source_url": "https://www.cybo.com/TZ-biz/tafico-vet-feeds",
+    "source_type": "web_directory",
+    "description": "Stockist of livestock feeds, poultry supplies, mineral blocks, and animal health remedies for coastal farms.",
+    "latitude": -6.871,
+    "longitude": 39.385
+  },
+  {
+    "business_name": "Tuangoma / Kigamboni Border Agrovet",
+    "category": "AGROVET",
+    "secondary_categories": [
+      "POULTRY_FEED",
+      "POULTRY_SUPPLIES",
+      "VETERINARY_SHOP"
+    ],
+    "district": "Kigamboni",
+    "ward_or_area": "Kisarawe II",
+    "street_or_address": "Kongowe - Kigamboni Link Road",
+    "phone": "+255 766 889 123",
+    "alternative_phone": "+255 716 889 123",
+    "source_url": "https://www.yellowpages.co.tz/tuangoma-agrovet",
+    "source_type": "web_directory",
+    "description": "Feed distribution, broiler starter, dewormers, knapsack sprayers, and day-old chicks pickup point.",
+    "latitude": -6.942,
+    "longitude": 39.321
+  },
+  {
+    "business_name": "Mjimwema Veterinary Clinic & Agrovet",
+    "category": "VETERINARY_SERVICE",
+    "secondary_categories": [
+      "VETERINARY_SHOP",
+      "AGROVET",
+      "ANIMAL_HEALTH_SUPPLIER"
+    ],
+    "district": "Kigamboni",
+    "ward_or_area": "Mjimwema",
+    "street_or_address": "Mjimwema Center, Kigamboni",
+    "phone": "+255 716 554 433",
+    "alternative_phone": "+255 756 554 433",
+    "source_url": "https://www.cybo.com/TZ-biz/mjimwema-vet",
+    "source_type": "web_directory",
+    "description": "Clinical veterinary treatments, pet vaccinations, poultry advisory services, and agricultural inputs store.",
+    "latitude": -6.858,
+    "longitude": 39.336
+  },
+  {
+    "business_name": "Pembamnazi Livestock Supplies",
+    "category": "LIVESTOCK_SUPPLIES",
+    "secondary_categories": [
+      "AGROVET",
+      "ANIMAL_HEALTH_SUPPLIER",
+      "ANIMAL_FEED"
+    ],
+    "district": "Kigamboni",
+    "ward_or_area": "Pembamnazi",
+    "street_or_address": "Pembamnazi Center, Kigamboni",
+    "phone": "+255 788 332 211",
+    "alternative_phone": "+255 718 332 211",
+    "source_url": "https://www.yellowpages.co.tz/pembamnazi-livestock",
+    "source_type": "web_directory",
+    "description": "Livestock dip chemicals, cattle salt licks, broad-spectrum anthelmintics, and poultry feeds.",
+    "latitude": -7.051,
+    "longitude": 39.521
+  },
+  {
+    "business_name": "Dege Agrovet & Poultry Farm Depot",
+    "category": "POULTRY_SUPPLIES",
+    "secondary_categories": [
+      "AGROVET",
+      "POULTRY_FEED",
+      "VETERINARY_SHOP"
+    ],
+    "district": "Kigamboni",
+    "ward_or_area": "Somangila",
+    "street_or_address": "Dege Eco-Village Road, Kigamboni",
+    "phone": "+255 753 112 445",
+    "alternative_phone": "+255 713 112 445",
+    "source_url": "https://www.cybo.com/TZ-biz/dege-agrovet",
+    "source_type": "web_directory",
+    "description": "Feeds, poultry vaccines, day-old chicks booking, brooding equipment, and poultry farm technical guidance.",
+    "latitude": -6.898,
+    "longitude": 39.402
+  },
+  {
+    "business_name": "Mwenge Agrovet & Poultry Center",
+    "category": "AGROVET",
+    "secondary_categories": [
+      "POULTRY_FEED",
+      "POULTRY_SUPPLIES",
+      "VETERINARY_SHOP"
+    ],
+    "district": "Kinondoni",
+    "ward_or_area": "Mwenge",
+    "street_or_address": "Sam Nujoma Road, Near Mwenge Bus Stand",
+    "phone": "+255 715 442 211",
+    "alternative_phone": "+255 754 442 211",
+    "source_url": "https://www.yellowpages.co.tz/mwenge-agrovet",
+    "source_type": "web_directory",
+    "description": "High-volume agrovet stockist offering poultry feeds (Interchick, Silverlands), vaccines, vitamins, feeding equipment, and pet medicines.",
+    "latitude": -6.772,
+    "longitude": 39.229
+  },
+  {
+    "business_name": "Sinza Vet Care & Agro Supplies",
+    "category": "AGROVET",
+    "secondary_categories": [
+      "VETERINARY_SHOP",
+      "POULTRY_FEED",
+      "ANIMAL_HEALTH_SUPPLIER"
+    ],
+    "district": "Kinondoni",
+    "ward_or_area": "Sinza",
+    "street_or_address": "Shekilango Road, Sinza Mori",
+    "phone": "+255 765 881 122",
+    "alternative_phone": "+255 714 881 122",
+    "source_url": "https://www.cybo.com/TZ-biz/sinza-vet-care",
+    "source_type": "web_directory",
+    "description": "Veterinary clinical advice, pet vaccines, poultry feeds, broiler medications, and household pest control supplies.",
+    "latitude": -6.782,
+    "longitude": 39.224
+  },
+  {
+    "business_name": "Kijitonyama Agrovet & Pet Shop",
+    "category": "VETERINARY_SHOP",
+    "secondary_categories": [
+      "AGROVET",
+      "ANIMAL_HEALTH_SUPPLIER",
+      "ANIMAL_FEED"
+    ],
+    "district": "Kinondoni",
+    "ward_or_area": "Kijitonyama",
+    "street_or_address": "Ali Hassan Mwinyi Road, Near Sayansi",
+    "phone": "+255 754 332 990",
+    "alternative_phone": "+255 712 332 990",
+    "source_url": "https://www.yellowpages.co.tz/kijitonyama-agrovet",
+    "source_type": "web_directory",
+    "description": "Supplies companion animal medicines, dog feeds, poultry feeds, anthelmintics, and agricultural garden inputs.",
+    "latitude": -6.778,
+    "longitude": 39.245
+  },
+  {
+    "business_name": "Kawe Animal Health & Feeds",
+    "category": "AGROVET",
+    "secondary_categories": [
+      "POULTRY_FEED",
+      "POULTRY_SUPPLIES",
+      "VETERINARY_SHOP"
+    ],
+    "district": "Kinondoni",
+    "ward_or_area": "Kawe",
+    "street_or_address": "Kawe Roundabout, Mwaya Road",
+    "phone": "+255 714 990 088",
+    "alternative_phone": "+255 768 990 088",
+    "source_url": "https://www.cybo.com/TZ-biz/kawe-animal-health",
+    "source_type": "web_directory",
+    "description": "Poultry feeds, chick starter, layer mash, poultry vitamins, Newcastle vaccines, and veterinary supplies in Kawe.",
+    "latitude": -6.738,
+    "longitude": 39.231
+  },
+  {
+    "business_name": "Boko Agrovet & Poultry Hub",
+    "category": "AGROVET",
+    "secondary_categories": [
+      "POULTRY_FEED",
+      "LIVESTOCK_SUPPLIES",
+      "VETERINARY_SHOP"
+    ],
+    "district": "Kinondoni",
+    "ward_or_area": "Boko",
+    "street_or_address": "Bagamoyo Road, Boko Basihaya",
+    "phone": "+255 768 443 311",
+    "alternative_phone": "+255 715 443 311",
+    "source_url": "https://www.yellowpages.co.tz/boko-agrovet",
+    "source_type": "web_directory",
+    "description": "Serving extensive peri-urban poultry and dairy farmers in Boko with feeds, vaccines, dewormers, and sprayers.",
+    "latitude": -6.645,
+    "longitude": 39.198
+  },
+  {
+    "business_name": "Kunduchi Vet & Animal Feeds",
+    "category": "AGROVET",
+    "secondary_categories": [
+      "POULTRY_FEED",
+      "VETERINARY_SHOP",
+      "ANIMAL_HEALTH_SUPPLIER"
+    ],
+    "district": "Kinondoni",
+    "ward_or_area": "Kunduchi",
+    "street_or_address": "Mtongani, Kunduchi",
+    "phone": "+255 713 221 445",
+    "alternative_phone": "+255 755 221 445",
+    "source_url": "https://www.cybo.com/TZ-biz/kunduchi-vet-feeds",
+    "source_type": "web_directory",
+    "description": "Commercial poultry feeds, layers mash, broiler crumbles, poultry vitamins, and local veterinary support.",
+    "latitude": -6.685,
+    "longitude": 39.205
+  },
+  {
+    "business_name": "Magomeni Agrovet Supplies",
+    "category": "AGROVET",
+    "secondary_categories": [
+      "POULTRY_FEED",
+      "VETERINARY_SHOP",
+      "POULTRY_SUPPLIES"
+    ],
+    "district": "Kinondoni",
+    "ward_or_area": "Magomeni",
+    "street_or_address": "Kawawa Road, Magomeni Mapipa",
+    "phone": "+255 755 667 889",
+    "alternative_phone": "+255 714 667 889",
+    "source_url": "https://www.yellowpages.co.tz/magomeni-agrovet",
+    "source_type": "web_directory",
+    "description": "Urban agrovet supplier offering poultry feed, day-old chicks booking, feeders, drinkers, and veterinary remedies.",
+    "latitude": -6.804,
+    "longitude": 39.261
+  },
+  {
+    "business_name": "Kigogo Vet & Poultry Feeds",
+    "category": "POULTRY_FEED",
+    "secondary_categories": [
+      "AGROVET",
+      "VETERINARY_SHOP",
+      "POULTRY_SUPPLIES"
+    ],
+    "district": "Kinondoni",
+    "ward_or_area": "Kigogo",
+    "street_or_address": "Kigogo Roundabout, Kigogo Road",
+    "phone": "+255 717 334 556",
+    "alternative_phone": "+255 756 334 556",
+    "source_url": "https://www.cybo.com/TZ-biz/kigogo-vet",
+    "source_type": "web_directory",
+    "description": "Retail supplier of poultry feed, broiler concentrates, chick vitamins, and basic livestock health inputs.",
+    "latitude": -6.812,
+    "longitude": 39.245
+  },
+  {
+    "business_name": "Msasani Veterinary Clinic & Pet Supplies",
+    "category": "VETERINARY_SERVICE",
+    "secondary_categories": [
+      "VETERINARY_SHOP",
+      "ANIMAL_HEALTH_SUPPLIER"
+    ],
+    "district": "Kinondoni",
+    "ward_or_area": "Msasani",
+    "street_or_address": "Kimweri Avenue, Msasani Peninsula",
+    "phone": "+255 22 260 0333",
+    "alternative_phone": "+255 754 260 033",
+    "source_url": "https://www.yellowpages.co.tz/msasani-vet-clinic",
+    "source_type": "web_directory",
+    "description": "Comprehensive small animal veterinary clinic offering consultation, vaccinations, pet nutrition, surgery, and grooming.",
+    "latitude": -6.761,
+    "longitude": 39.271
+  },
+  {
+    "business_name": "Tanzania Poultry Care (Mwenge Branch)",
+    "category": "POULTRY_SUPPLIES",
+    "secondary_categories": [
+      "POULTRY_FEED",
+      "AGROVET",
+      "VETERINARY_SHOP"
+    ],
+    "district": "Kinondoni",
+    "ward_or_area": "Mwenge",
+    "street_or_address": "Mwenge TRA Street, Kinondoni",
+    "phone": "+255 784 112 334",
+    "alternative_phone": "+255 712 112 334",
+    "source_url": "https://www.yellowpages.co.tz/tz-poultry-care",
+    "source_type": "web_directory",
+    "description": "Poultry equipment specialist supplying automated drinkers, brooders, egg incubators, feeds, and poultry vaccines.",
+    "latitude": -6.774,
+    "longitude": 39.231
+  },
+  {
+    "business_name": "Wazo Hill Agrovet & Feed Store",
+    "category": "AGROVET",
+    "secondary_categories": [
+      "POULTRY_FEED",
+      "LIVESTOCK_SUPPLIES",
+      "AGRICULTURAL_INPUTS"
+    ],
+    "district": "Kinondoni",
+    "ward_or_area": "Tegeta",
+    "street_or_address": "Wazo Hill Cement Road, Near Quarry",
+    "phone": "+255 766 554 433",
+    "alternative_phone": "+255 713 554 433",
+    "source_url": "https://www.cybo.com/TZ-biz/wazo-agrovet",
+    "source_type": "web_directory",
+    "description": "Livestock supplies, dairy cow mineral blocks, cattle tick grease, poultry feeds, and vegetable seeds.",
+    "latitude": -6.658,
+    "longitude": 39.185
+  },
+  {
+    "business_name": "Boko Chama Agrovet & Livestock Inputs",
+    "category": "AGROVET",
+    "secondary_categories": [
+      "LIVESTOCK_SUPPLIES",
+      "ANIMAL_FEED",
+      "VETERINARY_SHOP"
+    ],
+    "district": "Kinondoni",
+    "ward_or_area": "Boko",
+    "street_or_address": "Boko Chama, Bagamoyo Road",
+    "phone": "+255 715 009 988",
+    "alternative_phone": "+255 767 009 988",
+    "source_url": "https://www.yellowpages.co.tz/boko-chama-agrovet",
+    "source_type": "web_directory",
+    "description": "Veterinary medicines, livestock tick dips, poultry feeds, day-old chicks, and agricultural inputs.",
+    "latitude": -6.638,
+    "longitude": 39.191
+  },
+  {
+    "business_name": "Kimara Stopover Agrovet & Feeds",
+    "category": "AGROVET",
+    "secondary_categories": [
+      "POULTRY_FEED",
+      "POULTRY_SUPPLIES",
+      "VETERINARY_SHOP"
+    ],
+    "district": "Ubungo",
+    "ward_or_area": "Kimara",
+    "street_or_address": "Morogoro Road, Kimara Stopover",
+    "phone": "+255 715 776 543",
+    "alternative_phone": "+255 754 776 543",
+    "source_url": "https://www.yellowpages.co.tz/kimara-stopover-agrovet",
+    "source_type": "web_directory",
+    "description": "High-turnover agrovet on Morogoro Road providing commercial poultry feeds, vaccines, day-old chicks, and anthelmintics.",
+    "latitude": -6.799,
+    "longitude": 39.172
+  },
+  {
+    "business_name": "Kimara Korogwe Vet & Poultry Centre",
+    "category": "AGROVET",
+    "secondary_categories": [
+      "POULTRY_FEED",
+      "VETERINARY_SHOP",
+      "POULTRY_SUPPLIES"
+    ],
+    "district": "Ubungo",
+    "ward_or_area": "Kimara",
+    "street_or_address": "Morogoro Road, Kimara Korogwe",
+    "phone": "+255 754 118 899",
+    "alternative_phone": "+255 712 118 899",
+    "source_url": "https://www.cybo.com/TZ-biz/kimara-korogwe-vet",
+    "source_type": "web_directory",
+    "description": "Poultry feeds, day-old chicks distribution, feeding equipment, multivitamins, and veterinary medications.",
+    "latitude": -6.795,
+    "longitude": 39.185
+  },
+  {
+    "business_name": "Mbezi Mwisho Agrovet Wholesale Hub",
+    "category": "WHOLESALER",
+    "secondary_categories": [
+      "AGROVET",
+      "POULTRY_FEED",
+      "VETERINARY_PHARMACY"
+    ],
+    "district": "Ubungo",
+    "ward_or_area": "Mbezi",
+    "street_or_address": "Magufuli Bus Terminal Area, Mbezi Luis",
+    "phone": "+255 767 990 011",
+    "alternative_phone": "+255 718 990 011",
+    "source_url": "https://www.yellowpages.co.tz/mbezi-mwisho-agrovet",
+    "source_type": "web_directory",
+    "description": "Major wholesale and retail hub for veterinary pharmaceuticals, commercial poultry feeds, and livestock supplies at the transit hub.",
+    "latitude": -6.792,
+    "longitude": 39.145
+  },
+  {
+    "business_name": "Mbezi Kibanda ya Mkaa Poultry Feeds",
+    "category": "POULTRY_FEED",
+    "secondary_categories": [
+      "AGROVET",
+      "ANIMAL_FEED",
+      "POULTRY_SUPPLIES"
+    ],
+    "district": "Ubungo",
+    "ward_or_area": "Mbezi",
+    "street_or_address": "Kibanda ya Mkaa, Mbezi",
+    "phone": "+255 713 445 667",
+    "alternative_phone": "+255 755 445 667",
+    "source_url": "https://www.cybo.com/TZ-biz/mbezi-kibanda-feeds",
+    "source_type": "web_directory",
+    "description": "Poultry feeds retail depot stocking Silverlands, Kibo, Interchick, feeding troughs, drinkers, and vitamins.",
+    "latitude": -6.788,
+    "longitude": 39.151
+  },
+  {
+    "business_name": "Kwembe Agrovet & Livestock Centre",
+    "category": "AGROVET",
+    "secondary_categories": [
+      "LIVESTOCK_SUPPLIES",
+      "ANIMAL_FEED",
+      "VETERINARY_SHOP"
+    ],
+    "district": "Ubungo",
+    "ward_or_area": "Kwembe",
+    "street_or_address": "Kwembe Mwisho, Ubungo",
+    "phone": "+255 759 887 766",
+    "alternative_phone": "+255 714 887 766",
+    "source_url": "https://www.yellowpages.co.tz/kwembe-agrovet",
+    "source_type": "web_directory",
+    "description": "Serving peri-urban livestock farmers with cattle acaricides, dairy feeds, poultry crumbles, and veterinary drugs.",
+    "latitude": -6.815,
+    "longitude": 39.098
+  },
+  {
+    "business_name": "Mburahati Agrovet Supplies",
+    "category": "AGROVET",
+    "secondary_categories": [
+      "POULTRY_FEED",
+      "VETERINARY_SHOP",
+      "POULTRY_SUPPLIES"
+    ],
+    "district": "Ubungo",
+    "ward_or_area": "Mburahati",
+    "street_or_address": "Mburahati Barafu, Ubungo",
+    "phone": "+255 718 223 344",
+    "alternative_phone": "+255 765 223 344",
+    "source_url": "https://www.cybo.com/TZ-biz/mburahati-agrovet",
+    "source_type": "web_directory",
+    "description": "Supplies broiler and layer feeds, poultry stress relief packs, day-old chicks, and pest control chemicals.",
+    "latitude": -6.809,
+    "longitude": 39.238
+  },
+  {
+    "business_name": "Shekilango Vet Pharmacy & Feeds",
+    "category": "VETERINARY_PHARMACY",
+    "secondary_categories": [
+      "AGROVET",
+      "POULTRY_FEED",
+      "ANIMAL_HEALTH_SUPPLIER"
+    ],
+    "district": "Ubungo",
+    "ward_or_area": "Ubungo",
+    "street_or_address": "Shekilango Road, Near Kibo Bus Stop",
+    "phone": "+255 762 334 455",
+    "alternative_phone": "+255 715 334 455",
+    "source_url": "https://www.yellowpages.co.tz/shekilango-vet-pharmacy",
+    "source_type": "web_directory",
+    "description": "Registered veterinary pharmacy dispensing livestock antibiotics, anthelmintics, poultry feeds, and pet products.",
+    "latitude": -6.792,
+    "longitude": 39.215
+  },
+  {
+    "business_name": "Kibamba Agrovet & Animal Health",
+    "category": "AGROVET",
+    "secondary_categories": [
+      "LIVESTOCK_SUPPLIES",
+      "POULTRY_FEED",
+      "VETERINARY_SHOP"
+    ],
+    "district": "Ubungo",
+    "ward_or_area": "Kibamba",
+    "street_or_address": "Morogoro Road, Kibamba CCM",
+    "phone": "+255 714 556 778",
+    "alternative_phone": "+255 768 556 778",
+    "source_url": "https://www.cybo.com/TZ-biz/kibamba-agrovet",
+    "source_type": "web_directory",
+    "description": "Catering to peri-urban livestock and poultry producers along the Morogoro Road highway corridor.",
+    "latitude": -6.801,
+    "longitude": 39.112
+  },
+  {
+    "business_name": "Goba Center Animal Feeds & Vet Shop",
+    "category": "ANIMAL_FEED",
+    "secondary_categories": [
+      "AGROVET",
+      "POULTRY_FEED",
+      "VETERINARY_SHOP"
+    ],
+    "district": "Ubungo",
+    "ward_or_area": "Goba",
+    "street_or_address": "Goba Njia Nne, Goba Center",
+    "phone": "+255 755 778 899",
+    "alternative_phone": "+255 713 778 899",
+    "source_url": "https://www.yellowpages.co.tz/goba-center-feeds",
+    "source_type": "web_directory",
+    "description": "Retail feed store supplying broiler starter, finisher, layers mash, dairy meal, and basic poultry antibiotics.",
+    "latitude": -6.745,
+    "longitude": 39.168
+  },
+  {
+    "business_name": "Ubungo Maji Agrovet & Feeds",
+    "category": "AGROVET",
+    "secondary_categories": [
+      "POULTRY_FEED",
+      "VETERINARY_SHOP",
+      "POULTRY_SUPPLIES"
+    ],
+    "district": "Ubungo",
+    "ward_or_area": "Ubungo",
+    "street_or_address": "Ubungo Maji, Near Water Institute",
+    "phone": "+255 716 990 123",
+    "alternative_phone": "+255 754 990 123",
+    "source_url": "https://www.cybo.com/TZ-biz/ubungo-maji-agrovet",
+    "source_type": "web_directory",
+    "description": "Agrovet retail shop supplying feeds, day-old chicks, poultry medicine, vitamins, and crop protection inputs.",
+    "latitude": -6.785,
+    "longitude": 39.208
+  }
+]
